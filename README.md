@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi Uendel 👋
 
-<!--
-**uendelarruda/uendelarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Python para Iniciantes
 
-Here are some ideas to get you started:
+Repositório criado para documentar minha jornada de aprendizagem em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Registrar exercícios, práticas e pequenos projetos desenvolvidos durante meus estudos de programação.
+
+## Conteúdos estudados
+
+- Introdução ao Python
+- Variáveis
+- print() e input()
+- Tipos de dados
+- Conversão de dados
+- Condicionais (if, elif, else)
+- Operadores matemáticos
+- Funções
+- Algoritmos
+
+## Exercícios
+
+### 01 - Entrada e saída de dados
+Primeiros contatos com print(), input() e variáveis.
+
+### 02 - Números primos
+Prática de lógica de programação e condições.
+
+### 03 - Calculadora
+Aplicação de operadores matemáticos e estruturas condicionais.
+
+## Ferramentas
+
+- Python
+- Cursor
+- Windows PowerShell
+- GitHub
+
+## Status
+
+Em desenvolvimento. Novos exercícios serão adicionados conforme minha evolução nos estudos.
